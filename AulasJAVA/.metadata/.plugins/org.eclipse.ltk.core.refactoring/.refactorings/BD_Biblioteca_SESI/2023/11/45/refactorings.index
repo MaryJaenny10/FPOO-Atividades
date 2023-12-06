@@ -1,0 +1,11 @@
+1699271079375	Delete element
+1699271241567	Delete element
+1699271269225	Rename package 'src.br.org.sesisp.controller'
+1699271299400	Rename package 'src.br.org.sesisp.dao'
+1699271307161	Rename package 'src.br.org.sesisp.model'
+1699271314921	Rename package 'src.br.org.sesisp.view'
+1699271358748	Rename type 'Aluno'
+1699271841371	Encapsulate field 'codigo'
+1699271876914	Encapsulate field 'NomeLivro'
+1699271921642	Encapsulate field 'Autor'
+1699271950732	Encapsulate field 'Categotia'
